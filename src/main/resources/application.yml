@@ -1,0 +1,5 @@
+paypal:
+   credentials:
+      clientID: AWB_RlhsmngFihisdHcpptyoN6rvyKJN62uhlJHExey_Rsyxgf608RtZpHp9IzdkbKlMFUkdQpKZiipk
+      secret: EMnA-s0AuhoTbZ9nodJ1Ei_BIUfisfOgaO0w7Ui5T8h0NwEHxD-4_DwqG_ToAbCEj-7UMb-TbakwAg8H
+      url: https://api.sandbox.paypal.com/v1
